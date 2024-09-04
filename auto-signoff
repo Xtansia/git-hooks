@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 NAME=$(git config user.name)
 EMAIL=$(git config user.email)
